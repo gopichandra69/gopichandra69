@@ -1,4 +1,4 @@
-<h1 aligh="center">Hi, I'n Gopi Chandra</h1>
+<h1 aligh="center">Hi, I'm Gopi Chandra</h1>
 
 
 <!-- - 🔭 I’m currently working on ... -->
